@@ -1,0 +1,15 @@
+Http Method : POST
+URL : http://localhost:8080/jkdlrn/lmr/register
+Content-Type : application/json
+
+body:
+
+{
+  "memberApplication":
+  {
+    "name":"Kasun Dilunika",
+    "organization":"JKD",
+    "nic":"982322323298",
+    "employeeId":"12312312313"
+  }
+}
